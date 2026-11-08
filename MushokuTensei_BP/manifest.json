@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mushoku Tensei: World of Magic BP",
+    "description": "Classes, mana, spells, instructors and progression.",
+    "uuid": "1c9e6bd4-7bb8-4ab6-9ad3-7d6d6f2e8a01",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4c7f2c89-1c7c-4dbe-bf54-0b8e1a7f3110",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "96e43d94-f7f1-4b6d-b1f1-d8ce8c445942",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.16.0"
+    }
+  ]
+}

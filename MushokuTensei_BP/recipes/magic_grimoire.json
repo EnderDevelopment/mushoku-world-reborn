@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "mt:magic_grimoire" },
+    "tags": ["crafting_table"],
+    "pattern": ["ABA", "BCB", "ABA"],
+    "key": {
+      "A": { "item": "minecraft:paper" },
+      "B": { "item": "minecraft:lapis_lazuli" },
+      "C": { "item": "minecraft:book" }
+    },
+    "result": { "item": "mt:magic_grimoire", "count": 1 }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mt:aqua_bullet",
+      "menu_category": { "category": "items" }
+    },
+    "components": {
+      "minecraft:icon": { "texture": "mt_aqua_bullet" },
+      "minecraft:display_name": { "value": "Aqua Bullet" },
+      "minecraft:max_stack_size": 16,
+      "minecraft:cooldown": { "category": "mt_spell", "duration": 0.8 }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "namespace": "mt",
+  "hud_actionbar": {
+    "type": "panel",
+    "size": ["100%", 28],
+    "anchor_from": "bottom_middle",
+    "anchor_to": "bottom_middle",
+    "offset": [0, -34]
+  }
+}

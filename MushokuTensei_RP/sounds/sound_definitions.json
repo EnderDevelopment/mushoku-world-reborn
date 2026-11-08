@@ -1,0 +1,13 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "mt.spell_cast": {
+      "category": "player",
+      "sounds": ["random.orb"]
+    },
+    "mt.recovery": {
+      "category": "player",
+      "sounds": ["random.levelup"]
+    }
+  }
+}

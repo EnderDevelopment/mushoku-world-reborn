@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mushoku Tensei: World of Magic RP",
+    "description": "Textures and client presentation for the World of Magic addon.",
+    "uuid": "a3c0ed3a-07e2-4d09-9f54-2d8d4694fdc7",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a60bb2a9-8af5-4f2b-a4d1-4c5b5ee2f9b8",
+      "version": [1, 0, 0]
+    }
+  ]
+}

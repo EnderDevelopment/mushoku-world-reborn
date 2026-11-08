@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mt:sword_training",
+      "menu_category": { "category": "items" }
+    },
+    "components": {
+      "minecraft:icon": { "texture": "mt_sword_training" },
+      "minecraft:display_name": { "value": "Sword Training" },
+      "minecraft:max_stack_size": 1,
+      "minecraft:damage": 6,
+      "minecraft:hand_equipped": true
+    }
+  }
+}

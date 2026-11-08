@@ -1,0 +1,10 @@
+{
+  "resource_pack_name": "mt_world_of_magic",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "mt_magic_grimoire": { "textures": "textures/items/book_enchanted" },
+    "mt_aqua_bullet": { "textures": "textures/items/prismarine_shard" },
+    "mt_stone_cannon": { "textures": "textures/items/brick" },
+    "mt_sword_training": { "textures": "textures/items/iron_sword" }
+  }
+}
